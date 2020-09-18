@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="106" />
+    <option name="y" value="23" />
+    <option name="width" value="938" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectId" id="1adq0P47m223nTkBnI8ps9STDef" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunManager" selected="Application.PercolationStats">
+    <configuration name="Percolation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Percolation" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PercolationVisualizer" />
+      <item itemvalue="Application.Percolation" />
+      <item itemvalue="Application.PercolationStats" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PercolationStats" />
+        <item itemvalue="Application.PercolationVisualizer" />
+        <item itemvalue="Application.Percolation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="172" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587076028659">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="172" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/63.27.1303.741@63.27.1303.741" timestamp="1587076028659" />
+    <state width="1280" height="188" key="GridCell.Tab.0.bottom" timestamp="1587161441275">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state width="1280" height="188" key="GridCell.Tab.0.bottom/63.27.1303.741@63.27.1303.741" timestamp="1587161441275" />
+    <state width="1280" height="188" key="GridCell.Tab.0.center" timestamp="1587161441275">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state width="1280" height="188" key="GridCell.Tab.0.center/63.27.1303.741@63.27.1303.741" timestamp="1587161441275" />
+    <state width="1280" height="188" key="GridCell.Tab.0.left" timestamp="1587161441275">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state width="1280" height="188" key="GridCell.Tab.0.left/63.27.1303.741@63.27.1303.741" timestamp="1587161441275" />
+    <state width="1280" height="188" key="GridCell.Tab.0.right" timestamp="1587161441275">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state width="1280" height="188" key="GridCell.Tab.0.right/63.27.1303.741@63.27.1303.741" timestamp="1587161441275" />
+    <state width="1280" height="159" key="GridCell.Tab.1.bottom" timestamp="1587161316745">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state width="1280" height="159" key="GridCell.Tab.1.bottom/63.27.1303.741@63.27.1303.741" timestamp="1587161316745" />
+    <state width="1280" height="159" key="GridCell.Tab.1.center" timestamp="1587161316745">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state width="1280" height="159" key="GridCell.Tab.1.center/63.27.1303.741@63.27.1303.741" timestamp="1587161316745" />
+    <state width="1280" height="159" key="GridCell.Tab.1.left" timestamp="1587161316744">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state width="1280" height="159" key="GridCell.Tab.1.left/63.27.1303.741@63.27.1303.741" timestamp="1587161316744" />
+    <state width="1280" height="159" key="GridCell.Tab.1.right" timestamp="1587161316745">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state width="1280" height="159" key="GridCell.Tab.1.right/63.27.1303.741@63.27.1303.741" timestamp="1587161316745" />
+    <state x="197" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1587076849403">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="197" y="27" width="1024" height="741" key="SettingsEditor/63.27.1303.741@63.27.1303.741" timestamp="1587076849403" />
+    <state x="324" y="27" width="770" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587145290856">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="324" y="27" width="770" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/63.27.1303.741@63.27.1303.741" timestamp="1587145290856" />
+    <state x="378" y="175" key="run.anything.popup" timestamp="1587156081276">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="378" y="175" key="run.anything.popup/63.27.1303.741@63.27.1303.741" timestamp="1587156081276" />
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587160344386">
+      <screen x="63" y="27" width="1303" height="741" />
+    </state>
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup/63.27.1303.741@63.27.1303.741" timestamp="1587160344386" />
+  </component>
+</project>
